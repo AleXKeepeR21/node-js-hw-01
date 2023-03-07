@@ -1,6 +1,6 @@
 Link on screenshots:
 
-https://monosnap.com/list/64073ccc38cf4b9c0cbbd37c
+https://ibb.co/album/wrLHRp
 Examples of commands:
 
 Get all contacts in form of table:
