@@ -1,6 +1,6 @@
 Link on screenshots:
 
-https://ibb.co/album/wrLHRp
+https://ibb.co/album/N90wYP
 Examples of commands:
 
 Get all contacts in form of table:
